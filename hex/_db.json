@@ -1,0 +1,10 @@
+{
+    "Levels":
+    [
+        {
+            "Name": "Test",
+            "File": "test",
+            "MD5": "whatever"
+        }
+    ]
+}
