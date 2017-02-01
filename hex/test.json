@@ -1,11 +1,22 @@
 {
-    "Theme": "default",
+    "LightColor": "1.0 1.0 1.0 1.0",
+    "LightColor2": "1.0 1.0 1.0 1.0",
+
     "Tiles": 
     [
         {
+            "Id": 0,
             "Position": "0 0 0",
-            "State": 0,
+            "State": false,
             "Type": 0
+        }
+    ],
+
+    "WinConditions":
+    [
+        {
+            "Id": 0,
+            "State": true
         }
     ]
 }
